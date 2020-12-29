@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HiDoc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_News_Title">Bitcoin stoot met recordjacht door dak van $27.000 heen</string>
+    <string name="str_tvDesciption_News">Bitcoin stoot met recordjacht door dak van $27.000 heen</string>
+    <string name="str_publishat">2020-12-28T18:21:23Z</string>
+    <string name="str_Seach_news">India,UK,China...</string>
+    <string name="search_book">Search book</string>
+    <string name="more_info">More Info</string>
+</resources>
